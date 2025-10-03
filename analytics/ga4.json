@@ -1,13 +1,5 @@
 {
-  "measurement_id": "REQUIRED",
-  "cross_domain": [
-    "listwithlocate.co.ke",
-    "locateproperties.co.ke"
-  ],
-  "events": [
-    "start_listing_begin",
-    "start_listing_complete",
-    "contact_submit",
-    "utility_buy_click"
-  ]
+  "measurement_id": "G-TEST123456",
+  "cross_domain": ["listwithlocate.co.ke","locateproperties.co.ke"],
+  "events": ["start_listing_begin","start_listing_complete","contact_submit","utility_buy_click"]
 }

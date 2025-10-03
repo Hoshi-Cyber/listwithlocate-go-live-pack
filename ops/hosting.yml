@@ -1,5 +1,4 @@
-
-provider: "REQUIRED  # Netlify | Vercel | Cloudflare Pages | Other"
+provider: "Vercel"
 production_url: "https://listwithlocate.co.ke"
 build_command: "npm run build"
 output_dir: "dist"

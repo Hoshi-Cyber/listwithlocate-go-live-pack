@@ -1,11 +1,10 @@
-
 apex: "listwithlocate.co.ke"
 www: "www.listwithlocate.co.ke"
 records:
   - type: "CNAME"
     host: "www"
-    value: "apex"
+    value: "cname.vercel-dns.com."
 email_dns:
-  spf: "REQUIRED"
-  dkim_selector: "REQUIRED"
-  dmarc: "REQUIRED"
+  spf: "v=spf1 include:_spf.example.com ~all"
+  dkim_selector: "s1"
+  dmarc: "v=DMARC1; p=quarantine; rua=mailto:dmarc@listwithlocate.co.ke"

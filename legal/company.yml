@@ -1,21 +1,20 @@
-
-legal_name: "Locate Properties Kenya Limited"         # REQUIRED: Confirm exact legal name
+legal_name: "Locate Properties Kenya Limited"
 brand_display_name: "Locate Properties"
-registration_number: "REQUIRED"
-kra_pin: "REQUIRED"
+registration_number: "PVT-PLACEHOLDER-000000"
+kra_pin: "A0PLACEHOLDER0Z"
 address:
-  line1: "REQUIRED"
+  line1: "1st Floor, Example House, Kenyatta Ave"
   city: "Nairobi"
   region: "Nairobi County"
   postal_code: "00100"
   country: "KE"
 contacts:
-  phone_primary_e164: "REQUIRED"
-  whatsapp_e164: "REQUIRED"
-  email_sales: "REQUIRED"
-  email_support: "REQUIRED"
+  phone_primary_e164: "+254711000000"
+  whatsapp_e164: "+254711000000"
+  email_sales: "sell@listwithlocate.co.ke"
+  email_support: "support@listwithlocate.co.ke"
   office_hours: "Mon–Fri 08:30–17:30 EAT"
 regulatory_disclosures:
   licensing_statement: "Estate agency services provided in accordance with applicable Kenyan law."
-  tax_statement: "Fees subject to VAT at the prevailing rate where applicable; WHT obligations per Kenyan law."
+  tax_statement: "Fees exclusive of VAT unless stated; WHT per Kenyan law."
 company_social_handles_note: "Populate /social/profiles.json with canonical URLs."

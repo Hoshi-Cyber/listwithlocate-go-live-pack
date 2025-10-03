@@ -1,8 +1,8 @@
-
-provider: "REQUIRED  # Formspree | Netlify Forms | Resend | AWS SES + Lambda | Other"
-intake_endpoint: "REQUIRED"
-contact_endpoint: "REQUIRED"
-spam_protection: "REQUIRED  # reCAPTCHA v3 | hCaptcha"
+provider: "Formspree"
+intake_endpoint: "https://api.example.com/forms/sell-start"
+contact_endpoint: "https://api.example.com/forms/contact"
+spam_protection: "reCAPTCHA v3"
 data_retention_days: 365
 notification_emails:
-  - "REQUIRED"
+  - "ops@listwithlocate.co.ke"
+  - "sales@listwithlocate.co.ke"
