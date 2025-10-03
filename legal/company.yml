@@ -1,0 +1,21 @@
+
+legal_name: "Locate Properties Kenya Limited"         # REQUIRED: Confirm exact legal name
+brand_display_name: "Locate Properties"
+registration_number: "REQUIRED"
+kra_pin: "REQUIRED"
+address:
+  line1: "REQUIRED"
+  city: "Nairobi"
+  region: "Nairobi County"
+  postal_code: "00100"
+  country: "KE"
+contacts:
+  phone_primary_e164: "REQUIRED"
+  whatsapp_e164: "REQUIRED"
+  email_sales: "REQUIRED"
+  email_support: "REQUIRED"
+  office_hours: "Mon–Fri 08:30–17:30 EAT"
+regulatory_disclosures:
+  licensing_statement: "Estate agency services provided in accordance with applicable Kenyan law."
+  tax_statement: "Fees subject to VAT at the prevailing rate where applicable; WHT obligations per Kenyan law."
+company_social_handles_note: "Populate /social/profiles.json with canonical URLs."

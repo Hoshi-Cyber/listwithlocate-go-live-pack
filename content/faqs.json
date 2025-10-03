@@ -1,0 +1,152 @@
+[
+  {
+    "question": "How do your sale success fees work?",
+    "answer": "We charge a percent of the final sale price by band. Billing is split: 50% at deposit on signed agreement and 50% at completion.",
+    "category": "General",
+    "last_updated": "2025-10-03"
+  },
+  {
+    "question": "Can I use another agent while mandated with you?",
+    "answer": "No. Our mandates are exclusive for 60\u201390 days with a 180\u2011day tail. This prevents duplicated marketing and protects negotiations.",
+    "category": "General",
+    "last_updated": "2025-10-03"
+  },
+  {
+    "question": "Do your fees include VAT?",
+    "answer": "Fees are exclusive of VAT unless stated otherwise. VAT is charged at the prevailing rate where applicable.",
+    "category": "General",
+    "last_updated": "2025-10-03"
+  },
+  {
+    "question": "What documents do I need to start a sale?",
+    "answer": "Proof of ownership, national ID/KRA PIN, recent rates/land rent receipts, and utility statements. We share a checklist at onboarding.",
+    "category": "General",
+    "last_updated": "2025-10-03"
+  },
+  {
+    "question": "How long does a typical sale take?",
+    "answer": "Timelines vary with pricing and demand. We report weekly on viewings, offers, and next actions.",
+    "category": "General",
+    "last_updated": "2025-10-03"
+  },
+  {
+    "question": "What is included in tenant placement?",
+    "answer": "Marketing, viewings, vetting, lease negotiation, execution, meter readings, handover photos, and deposit schedule.",
+    "category": "General",
+    "last_updated": "2025-10-03"
+  },
+  {
+    "question": "Who holds the tenant deposit?",
+    "answer": "The landlord typically holds the deposit under the lease. We document the deposit schedule and meter readings at handover.",
+    "category": "General",
+    "last_updated": "2025-10-03"
+  },
+  {
+    "question": "When is tenant placement fee due?",
+    "answer": "On lease execution or move\u2011in, whichever occurs first.",
+    "category": "General",
+    "last_updated": "2025-10-03"
+  },
+  {
+    "question": "What does property management cover?",
+    "answer": "Rent collection, arrears follow\u2011up, vendor coordination, routine maintenance, inspections, owner statements, and records.",
+    "category": "General",
+    "last_updated": "2025-10-03"
+  },
+  {
+    "question": "Do you manage cleaning or security staff?",
+    "answer": "Yes, by coordinating approved vendors. Vendor costs are billed at cost; management fees exclude third\u2011party charges.",
+    "category": "General",
+    "last_updated": "2025-10-03"
+  },
+  {
+    "question": "What are your short\u2011stay management tiers?",
+    "answer": "Lite 18%, Full 22%, Pro 25% of gross booking value, each with defined inclusions and service levels.",
+    "category": "General",
+    "last_updated": "2025-10-03"
+  },
+  {
+    "question": "What is a short\u2011stay filling sprint?",
+    "answer": "A time\u2011boxed push to increase bookings using OTA boosts, price testing, creative refresh, and retargeting.",
+    "category": "General",
+    "last_updated": "2025-10-03"
+  },
+  {
+    "question": "How do you track bookings you source?",
+    "answer": "We use channel manager webhooks, unique source codes, and payout reconciliation to attribute bookings.",
+    "category": "General",
+    "last_updated": "2025-10-03"
+  },
+  {
+    "question": "Can I use my own vendors for make\u2011ready?",
+    "answer": "Yes. We obtain up to three quotes and can include your preferred vendors subject to availability and compliance.",
+    "category": "General",
+    "last_updated": "2025-10-03"
+  },
+  {
+    "question": "How do you handle repairs above a limit?",
+    "answer": "We seek written approval for works above the agreed threshold and provide before/after evidence with invoices.",
+    "category": "General",
+    "last_updated": "2025-10-03"
+  },
+  {
+    "question": "How will I receive statements?",
+    "answer": "Owner statements are issued monthly, typically by the 5th of the following month.",
+    "category": "General",
+    "last_updated": "2025-10-03"
+  },
+  {
+    "question": "Do you work outside Nairobi?",
+    "answer": "Yes, subject to mandate terms and feasibility. Travel and third\u2011party costs may apply.",
+    "category": "General",
+    "last_updated": "2025-10-03"
+  },
+  {
+    "question": "What happens if a sale collapses?",
+    "answer": "Collapse protection applies per mandate clauses. We continue marketing and re\u2011engage qualified buyers.",
+    "category": "General",
+    "last_updated": "2025-10-03"
+  },
+  {
+    "question": "How do you set the listing price?",
+    "answer": "We issue a pricing memo based on comparables, demand signals, and property condition. The owner approves the final price.",
+    "category": "General",
+    "last_updated": "2025-10-03"
+  },
+  {
+    "question": "Do you accept open listings?",
+    "answer": "No. We work on exclusive mandates to keep negotiations clean and accountable.",
+    "category": "General",
+    "last_updated": "2025-10-03"
+  },
+  {
+    "question": "How do you handle data and privacy?",
+    "answer": "We use analytics only after consent and retain form submissions for operational purposes per our policy.",
+    "category": "General",
+    "last_updated": "2025-10-03"
+  },
+  {
+    "question": "What payment methods do you accept?",
+    "answer": "Bank transfer by default. Escrow and other methods may be used where agreed in the mandate.",
+    "category": "General",
+    "last_updated": "2025-10-03"
+  },
+  {
+    "question": "How do I start a mandate?",
+    "answer": "Use \u201cStart listing\u201d on the site or contact us. We will confirm property details and issue a mandate for signature.",
+    "category": "General",
+    "last_updated": "2025-10-03"
+  },
+  {
+    "question": "Can I cancel a mandate?",
+    "answer": "Yes, per the mandate terms. Fees for completed work or triggered billing stages may still apply.",
+    "category": "General",
+    "last_updated": "2025-10-03"
+  },
+  {
+    "question": "How do I contact support?",
+    "answer": "Use the contact form or the support email listed in the footer. Office hours are shown on the site.",
+    "category": "General",
+    "last_updated": "2025-10-03"
+  }
+]

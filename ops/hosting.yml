@@ -1,0 +1,11 @@
+
+provider: "REQUIRED  # Netlify | Vercel | Cloudflare Pages | Other"
+production_url: "https://listwithlocate.co.ke"
+build_command: "npm run build"
+output_dir: "dist"
+environment:
+  NODE_VERSION: "20"
+  TZ: "Africa/Nairobi"
+cache_policy:
+  html_revalidate_seconds: 300
+  asset_cache_control: "public, max-age=31536000, immutable"

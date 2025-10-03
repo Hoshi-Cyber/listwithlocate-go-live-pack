@@ -1,0 +1,11 @@
+
+apex: "listwithlocate.co.ke"
+www: "www.listwithlocate.co.ke"
+records:
+  - type: "CNAME"
+    host: "www"
+    value: "apex"
+email_dns:
+  spf: "REQUIRED"
+  dkim_selector: "REQUIRED"
+  dmarc: "REQUIRED"

@@ -1,0 +1,51 @@
+{
+  "sale_success_fee": [
+    {
+      "band": "\u2264 KES 10M",
+      "rate_pct": 2.5
+    },
+    {
+      "band": "KES 10\u201325M",
+      "rate_pct": 2.0
+    },
+    {
+      "band": "> KES 25M",
+      "rate_pct": 1.5
+    }
+  ],
+  "deal_orchestration_flat": [
+    {
+      "band": "\u2264 KES 10M",
+      "fee_kes": 60000
+    },
+    {
+      "band": "KES 10\u201325M",
+      "fee_kes": 90000
+    },
+    {
+      "band": "> KES 25M",
+      "fee_kes": 120000
+    }
+  ],
+  "tenant_placement": {
+    "fee": "one_month_rent"
+  },
+  "property_management_pct": {
+    "tier_1_4": 10,
+    "tier_5_19": 9,
+    "tier_20_plus": 8
+  },
+  "short_stay": {
+    "filling_pct": 10,
+    "management_tiers_pct": {
+      "lite": 18,
+      "full": 22,
+      "pro": 25
+    }
+  },
+  "make_ready_pct": 10,
+  "acceleration_sprint": {
+    "sales_add_pct": 0.2,
+    "rentals_uplift_pct": 20
+  }
+}
