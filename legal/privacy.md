@@ -3,7 +3,7 @@
 Last updated: 2025-10-03
 
 ## Controller
-Locate Properties Kenya Limited ("we", "us", "our"). Contact: support@REQUIRED
+Locate Properties Kenya Limited ("we", "us", "our"). Contact: support@listwithlocate.co.ke
 
 ## Data We Process
 - Contact details you submit on forms
@@ -22,7 +22,7 @@ Locate Properties Kenya Limited ("we", "us", "our"). Contact: support@REQUIRED
 - Processors for hosting, analytics, and form delivery under DPA terms; no sale of personal data.
 
 ## Rights
-- Access, rectification, deletion, objection. Contact: support@REQUIRED
+- Access, rectification, deletion, objection. Contact: support@listwithlocate.co.ke
 
 ## Cookies & Consent
 - Analytics cookies only after opt-in. Manage preferences via footer link.
